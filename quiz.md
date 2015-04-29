@@ -1,21 +1,20 @@
 #Quick Git Quiz
 
-###What is your name?
+###What is your name? 
 
-Your answer goes here
+Erika Harvey
 
 ###What is your favorite color?
 
-Your answer goes here
+purplish blue like the iris flower
 
 ###Cats or Dogs?
-
-Your answer goes here
+four legs and it doesn't slither? perfect
 
 ###What would constitute a “perfect” day for you?
 
-Your answer goes here
+any day i'm breathing is pretty perfect
 
 ###Given the choice of anyone in the world, whom would you want as a dinner guest?
 
-Your answer goes here
+my mom and dad when they were young and my late husband
